@@ -62,8 +62,8 @@ export const Product = styled.div`
   }
 
   img {
-    width: 420px;
-    margin-left: 15%;
+    width: 220px;
+    margin-left: 24%;
   }
 `;
 
