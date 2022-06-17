@@ -1,6 +1,6 @@
 import React from "react";
 import Item from "./Item";
-import {Container} from "./styles/Styles"
+import { Container } from "./styles/Styles";
 // Debemos importar el listado de objetos del archivo JSON para usarlos como array a la hora de crear cada Item.
 // El componente Listado es el padre de:
 // - varios Item
